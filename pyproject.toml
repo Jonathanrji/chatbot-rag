@@ -1,0 +1,20 @@
+[project]
+name = "chatbot-rag"
+version = "0.1.0"
+description = "Chatbot RAG con LangChain, Ollama, ChromaDB y LangSmith"
+authors = [{ name = "Jonathan Rojas", email = "jonathan.rojas@uao.edu.co" }]
+requires-python = ">=3.10"
+
+dependencies = [
+  "streamlit",
+  "langchain",
+  "langchain-community",
+  "langchain-ollama",
+  "langsmith",
+  "chromadb",
+  "pypdf",
+  "python-dotenv"
+]
+
+[tool.uv]
+python = "3.10"
