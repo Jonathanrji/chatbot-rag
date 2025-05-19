@@ -111,7 +111,6 @@ streamlit run src/app.py
 
 ## 📊 Captura de LangSmith
 
-_Asegúrese de subir una imagen como esta en tu README:_
 
 > ![Captura de LangSmith mostrando una traza del chatbot](assets/1.png)
 > ![Captura de LangSmith mostrando una traza del chatbot](assets/2.png)
